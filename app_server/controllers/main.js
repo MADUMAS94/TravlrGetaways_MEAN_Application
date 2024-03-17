@@ -1,9 +1,11 @@
-/*GET HOMEPAGE*/
+var fs = require('fs');
 
-const index = (req, res) => {
-    res.render('index',{title: "Travlr Gataways"});
+var trips = JSON.parse(fs.readFileSync('./data/trips.json', 'utf8'));
+
+const travel = (req, res) => {
+    res.render('travel', {title: "Travlr Getaways - Travel", trips});
 };
 
 module.exports = {
-    index
+    travel
 };
