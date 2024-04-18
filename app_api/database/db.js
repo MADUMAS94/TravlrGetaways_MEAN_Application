@@ -76,3 +76,4 @@ connect();
 
 // Import Mongoose schema
 require('./models/trips');
+require('./models/user');
