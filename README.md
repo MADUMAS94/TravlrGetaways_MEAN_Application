@@ -1,6 +1,7 @@
 # CS465-fullstack
  This application was created through the CS-465 Full Stack Development class with MEAN
 
+![image](https://github.com/MADUMAS94/TravlrGetaways_MEAN_Application/assets/111580652/c81223bd-aa83-4392-92ee-3953f2f78a5f)
 
 # Project Reflection
 
