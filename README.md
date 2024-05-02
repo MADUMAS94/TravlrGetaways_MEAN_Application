@@ -1,5 +1,5 @@
 # CS465-fullstack
-CS-465 Full Stack Development with MEAN
+ This application was created through the CS-465 Full Stack Development class with MEAN
 
 
 # Project Reflection
